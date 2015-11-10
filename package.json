@@ -1,5 +1,5 @@
 {
-  "name": "engine.io-client",
+  "name": "engine.io-client-pure",
   "description": "Client for the realtime Engine",
   "version": "1.5.4",
   "homepage": "http://socket.io",
